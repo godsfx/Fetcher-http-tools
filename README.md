@@ -23,9 +23,9 @@ Memerlukan ekstensi atau aplikasi *userscript manager* pada browser:
 
 ## Cara Instalasi
 
-1. Unduh file **`m3u8-auto-detector-v3.5-fix.user.js`** dari repositori ini.
+1. Unduh file **`http tools.user.js`** dari repositori ini.
 2. Buka dashboard *userscript manager* Anda (Tampermonkey / Violentmonkey / Userscripts).
-3. Pilih menu **Import / Utilities / Tambah Skrip Baru**, lalu arahkan ke file `m3u8-auto-detector-v3.5-fix.user.js` (atau tempelkan seluruh isi kodenya).
+3. Pilih menu **Import / Utilities / Tambah Skrip Baru**, lalu arahkan ke file `http tools.user.js` (atau tempelkan seluruh isi kodenya).
 4. Simpan dan pastikan status skrip dalam keadaan **Aktif (Enabled)**.
 5. Muat ulang halaman web target; panel mengambang **Media (0) • Tok (0)** akan muncul di pojok layar dan dapat digeser (*drag*) ke posisi mana pun.
 
@@ -46,7 +46,7 @@ Memerlukan ekstensi atau aplikasi *userscript manager* pada browser:
 
 ```text
 .
-├── m3u8-auto-detector-v3.5-fix.user.js   # Skrip userscript utama (v3.5)
+├── http tools.user.js   # Skrip userscript utama (v3.5)
 └── README.md                             # Dokumentasi repositori
 ```
 
