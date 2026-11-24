@@ -1,4 +1,4 @@
-# M3U8 & Resource Detector v3.5
+# Resource Fetcher v1.0
 
 Userscript untuk memantau request media/resource jaringan (`.m3u8`, `.mp4`, `.js`, `.json`, endpoint API), memindai token sesi lintas sumber, menginspeksi/melakukan *live patch* pada skrip JS, respons JSON, dan Web Storage (`localStorage` / `sessionStorage`), serta mencatat log fungsi secara real-time langsung melalui panel mengambang (*floating overlay*) di browser.
 
